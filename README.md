@@ -1,7 +1,5 @@
 # Retail_Sales_Performance_Analysis_Kaycee
 
-# Retail Sales Performance Analysis
-
 ## Project Overview
 This project analyzes retail sales data to understand sales performance, identify trends, and support business decision-making.
 
